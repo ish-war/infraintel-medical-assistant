@@ -58,8 +58,8 @@ infraintel/ # Root folder
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/rag-medical-assistant.git
-cd rag-medical-assistant
+git clone https://github.com/ish-war/infraintel-medical-assistant
+cd infraintel-medical-assistant
 ```
 
 ### 2. Create .env File
