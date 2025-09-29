@@ -8,6 +8,12 @@ The tool ensures:
 - Avoiding duplicate summaries by updating existing patient files if already present.
 - Storage of summaries in a dedicated folder for organized access.
 
+
+## Example 
+
+<img width="2325" height="955" alt="Screenshot 2025-09-29 102044" src="https://github.com/user-attachments/assets/412abd1c-f4a4-4128-9b44-d4b2b83d7d81" />
+
+
 ---
 
 ## Features
@@ -58,8 +64,8 @@ infraintel/
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd infraintel
+git clone https://github.com/ish-war/infraintel-medical-assistant/tree/main/summarize
+cd infraintel-medical-assistant/tree/main/summarize
 ```
 
 2. Create a virtual environment and activate it:
