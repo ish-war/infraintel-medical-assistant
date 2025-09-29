@@ -170,9 +170,26 @@ docker run -p 8000:8000 rag-medical-assistant
 
 The service is Cloud Run–ready. Once pushed to Artifact Registry, deploy with:
 ```bash
-gcloud run deploy rag-medical-assistant \
-  --image us-central1-docker.pkg.dev/<PROJECT_ID>/<REPO_NAME>/rag-medical-assistant:v1 \
-  --platform managed --region us-central1 --allow-unauthenticated
+# Step 1: Authenticate Docker with GCP
+gcloud auth configure-docker us-central1-docker.pkg.dev
+
+# Step 2: Tag your local Docker image for GCP
+docker tag rag-medical-assistant us-central1-docker.pkg.dev/document-ai-473404/rag-repo/rag-medical-assistant:v1
+
+# Step 3: Push the Docker image to Artifact Registry
+docker push us-central1-docker.pkg.dev/document-ai-473404/rag-repo/rag-medical-assistant:v1
+
+for above step 3 -This may take a few minutes depending on image size and internet speed.
+After this, your image will be stored in GCP and ready for Cloud Run deployment.
+
+# Step 4: Deploy Docker Image to Cloud Run
+- Run this command in your terminal (Windows-friendly one-line version):
+```bash
+gcloud run deploy rag-medical-assistant ^
+  --image us-central1-docker.pkg.dev/document-ai-473404/rag-repo/rag-medical-assistant:v1 ^
+  --platform managed ^
+  --region us-central1 ^
+  --allow-unauthenticated
 ```
 
 --- 
