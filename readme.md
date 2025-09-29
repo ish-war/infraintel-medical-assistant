@@ -87,13 +87,16 @@ docker build -t rag-medical-assistant .
 docker run -p 8000:8000 rag-medical-assistant
 ```
 
-Open [Link](http://localhost:8000) in your browser.
+- Open UI → http://localhost:8000
+
+
+--- 
 
 ## Usage
 
 ### Home Page
 
-<!-- Add screenshot of index.html -->
+<img width="1285" height="896" alt="Screenshot 2025-09-29 212853" src="https://github.com/user-attachments/assets/50fcf504-45d5-45bf-b506-70b89295b488" />
 
 - Enter your medical question.
 
@@ -103,13 +106,48 @@ Open [Link](http://localhost:8000) in your browser.
 
 ### Results Page
 
-<!-- Add screenshot of results.html -->
+<img width="1361" height="919" alt="Screenshot 2025-09-29 213003" src="https://github.com/user-attachments/assets/0a47536c-0b90-43fa-ba32-aa8f33839146" />
 
 - Shows retrieved records from the database.
 
 - Displays Gemini-generated answer (if enabled).
 
 - Clean, responsive UI with clear separation of metadata.
+
+--- 
+
+## API Endpoints
+
+### UI
+
+- / → Home page
+
+- /ask-ui → Submit queries via UI
+
+### REST API
+
+- GET /api → Service status
+
+- POST /ask
+
+Request:
+```bash
+{
+  "question": "List patients with fever",
+  "top_k": 2,
+  "use_gemini": true
+}
+```
+Response:
+```bash
+{
+  "retrieved": [...],
+  "retrieved_count": 2,
+  "answer": "The top 2 patients with fever are Jyoti Shah, Yaw Han"
+}
+```
+
+--- 
 
 ## Deployment
 
@@ -120,6 +158,25 @@ The project is containerized with Docker and can be deployed to Google Cloud Run
 - Push Docker image to Artifact Registry.
 
 - Deploy image to Cloud Run to get a public endpoint.
+
+- Docker
+
+```bash
+docker build -t rag-medical-assistant .
+docker run -p 8000:8000 rag-medical-assistant
+```
+
+- Cloud Run (GCP)
+
+The service is Cloud Run–ready. Once pushed to Artifact Registry, deploy with:
+```bash
+gcloud run deploy rag-medical-assistant \
+  --image us-central1-docker.pkg.dev/<PROJECT_ID>/<REPO_NAME>/rag-medical-assistant:v1 \
+  --platform managed --region us-central1 --allow-unauthenticated
+```
+
+--- 
+
 
 ## Contributing
 
