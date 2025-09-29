@@ -17,6 +17,10 @@ A production-ready project to extract text from documents/images stored in Googl
 
 ---
 
+## Fastapi Interface
+
+<img width="2608" height="1207" alt="Screenshot 2025-09-28 175901" src="https://github.com/user-attachments/assets/71c82a9a-4128-47b4-8c82-748cd657cd00" />
+
 ## Folder Structure
 
 ```bash
@@ -63,8 +67,8 @@ GOOGLE_API_KEY=your_api_key
 1. **Clone the repository**
 
 ```bash
-git clone <repo-url>
-cd intraintel
+git clone https://github.com/ish-war/infraintel-medical-assistant/tree/main/document_ai
+cd infraintel-medical-assistant/tree/main/document_ai
 ```
 
 2. **Create and activate a virtual environment**
