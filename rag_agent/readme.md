@@ -119,8 +119,8 @@ Response:
 ```bash
 {
   "retrieved": [...],
-  "retrieved_count": 5,
-  "answer": "The top 5 patients with diabetes are..."
+  "retrieved_count": 2,
+  "answer": "The top 2 patients with fever are Jyoti Shah, Yaw Han"
 }
 ```
 
