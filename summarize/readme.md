@@ -118,14 +118,18 @@ Each patient summary JSON file has this structure:
 
 ```bash
 {
-  "record_id": 1,
-  "processed_at": "2025-09-28T10:15:00",
-  "original_text_length": 1234,
+  "record_id": 16,
+  "processed_at": "2025-09-28T23:00:51.576418",
+  "original_text_length": 931,
   "summary": {
-    "Patient": "John Doe, 45M",
-    "Diagnosis": "Hypertension",
-    "Treatment": "Lisinopril 10mg daily",
-    "Follow-up": "Check blood pressure in 2 weeks"
+    "Patient": "Jyoti Shah (Passport/ID: 354-23-00442)",
+    "Diagnosis": "Fever, Muscular fever",
+    "Treatment": "1 day of rest",
+    "Follow-up": "Not specified"
+  },
+  "metadata": {
+    "model_used": "gemini-2.5-flash",
+    "processing_version": "1.0"
   }
 }
 ```
