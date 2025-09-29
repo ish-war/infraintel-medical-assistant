@@ -1,0 +1,20 @@
+# Task 2: Clinical Record Summarization Requirements
+# Core dependencies for LLM-based clinical note processing
+
+# Google Gemini AI SDK
+google-generativeai==0.8.3
+
+# FAISS for vector similarity search (CPU version)
+faiss-cpu==1.8.0
+
+# NumPy for array operations and data handling
+numpy==1.24.3
+
+# Standard library packages (usually pre-installed, but listed for completeness)
+# json - Built-in Python module
+# os - Built-in Python module  
+# re - Built-in Python module
+# datetime - Built-in Python module
+
+# Optional: For enhanced development experience
+# python-dotenv==1.0.0  # Uncomment if you want to load API keys from .env file

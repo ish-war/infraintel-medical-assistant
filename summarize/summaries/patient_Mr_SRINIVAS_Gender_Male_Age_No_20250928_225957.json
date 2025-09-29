@@ -1,0 +1,15 @@
+{
+  "record_id": 11,
+  "processed_at": "2025-09-28T22:59:57.101437",
+  "original_text_length": 954,
+  "summary": {
+    "Patient": "Mr SRINIVAS (Gender: Male, Age: Not specified)",
+    "Diagnosis": "Chronic Schizophrenia (Paranoid), Diabetes Mellitus (DM), Hypertension (HTN), Hypercholesterolemia (Triglycerides), Paranoia Delusions",
+    "Treatment": "Counselled over Phone. Medications: Tab Si ZODON Plus (1 tablet morning, 1 tablet night), Tab Qubipin 200mg (1 tablet night), Tab ATIVAN (Lorazepam) 2mg (1 tablet night), Tab Rivotril 0.5mg (Clonazepam) (1 tablet night), Tab SERTA 50mg (1 tablet night for 6 months). Continue all medicines.",
+    "Follow-up": "Call me in between, if any problem. In Emergency / If the doctor is not available, please admit at Asha Hospital, Road No. 14, Banjara Hills, Hyderabad."
+  },
+  "metadata": {
+    "model_used": "gemini-2.5-flash",
+    "processing_version": "1.0"
+  }
+}

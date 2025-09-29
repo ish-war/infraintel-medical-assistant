@@ -1,0 +1,393 @@
+[
+  {
+    "total_records": 18,
+    "processed_at": "2025-09-28T23:01:03.147327",
+    "files": [
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Mr_SRINIVAS_20250928_225835.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Jyoti_Shah_ID_354_23_00442_20250928_225839.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Mr_SRINIVAS_20250928_225835.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Jyoti_Shah_ID_354_23_00442_20250928_225839.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Mr_SRINIVAS_20250928_225835.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Jyoti_Shah_ID_354_23_00442_20250928_225839.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Mr_SRINIVAS_20250928_225835.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Jyoti_Shah_PassportID_354_23_0_20250928_225926.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Mr_SRINIVAS_20250928_225835.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Yaw_Han_ID_354_23_00442_20250928_225936.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Mr_SRINIVAS_Gender_Male_Age_No_20250928_225957.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Jyoti_Shah_ID_354_23_00442_20250928_225839.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Mr_SRINIVAS_20250928_225835.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Yaw_Han_PassportID_354_23_0044_20250928_230037.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Mr_SRINIVAS_20250928_225835.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Jyoti_Shah_PassportID_354_23_0_20250928_225926.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Mr_SRINIVAS_20250928_225835.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Yaw_Han_ID_354_23_00442_20250928_225936.json"
+    ],
+    "summary_preview": [
+      {
+        "Patient": "Mr SRINIVAS",
+        "Diagnosis": "Chronic Schizophrenia (Paranoid), DM- HIN, Hypercholesterolemia (Triglycerides)",
+        "Treatment": "Tab Si ZODON Plus (1 morning, 1 night), Tab Qubipin 200mg (1 night), Tab ATIVAN (Lorazepam) 2mg (1 night), Rivotril 0.5mg (Clonazepam) (1 night), SERTA 50mg (1 night). Continue Olra BP/LS ugen medicines.",
+        "Follow-up": "Call doctor in between if any problem. In emergency or if doctor is not available, admit at Asha Hospital."
+      },
+      {
+        "Patient": "Jyoti Shah, ID: 354-23-00442",
+        "Diagnosis": "Muscular fever",
+        "Treatment": "Not specified",
+        "Follow-up": "Not specified"
+      },
+      {
+        "Patient": "Mr SRINIVAS",
+        "Diagnosis": "Chr. Schizophrenia (Paranoid), DM- II, HTN, Hypercholesterolemia (Triglycerides), Paranoid Delusions, ADHD",
+        "Treatment": "Counselled over Phone. Medications: Tab ZODON Plus (1 Morning, 1 Night), Tab Qubipin 200mg (1 Night), Tab Ativan (Lorazepam) 2mg (1 Night), Tab Rivotril 0.5mg (Clonazepam) (1 Night), SERTA 50mg (1 Night). Continue other B.P. and sugar medicines.",
+        "Follow-up": "Call me in between, if any problem"
+      },
+      {
+        "Patient": "Jyoti Shah",
+        "Diagnosis": "Muscular fever",
+        "Treatment": "Rest for 1 day",
+        "Follow-up": "Not specified"
+      },
+      {
+        "Patient": "Mr SRINIVAS",
+        "Diagnosis": "Chronic Schizophrenia (Paranoid), Diabetes Mellitus (DM), Hypertension (HTN), Hypercholesterolemia (Triglycerides)",
+        "Treatment": "Counselled over Phone. Medications: Tab ZODON Plus (1 Morning, 1 Night), Tab Qubipin 200mg (1 Night), Tab ATIVAN (Lorazepam) 2mg (1 Night), Tab Rivotril 0.5mg (Clonazepam) (1 Night), Tab SERTA 50mg (1 Night). Continue other B.P etc medicines.",
+        "Follow-up": "Call me in between, if any problem."
+      },
+      {
+        "Patient": "Jyoti Shah",
+        "Diagnosis": "Muscular fever",
+        "Treatment": "1 Day of rest/medical leave",
+        "Follow-up": "Not specified"
+      },
+      {
+        "Patient": "Mr SRINIVAS",
+        "Diagnosis": [
+          "Chronic Schizophrenia (Paranoid)",
+          "DM",
+          "Hypercholesterolemia (Triglycerides)",
+          "Paranoid Delusions"
+        ],
+        "Treatment": [
+          "Counselled over Phone",
+          "Tab Si ZODON Plus: 1 in the morning, 1 at night",
+          "Tab Qubipin 200mg: 1 at night",
+          "Tab ATivan (Lorazepam) 2mg: 1 at night",
+          "Rivotril 0.5mg (Clonazepam): 1 at night",
+          "SERTA 50mg: 1 at night",
+          "Continue medicines"
+        ],
+        "Follow-up": [
+          "Call if any problem",
+          "In emergency/if doctor not available, admit at Asha Hospital"
+        ]
+      },
+      {
+        "Patient": "Jyoti Shah, Passport/ID: 354-23-00442",
+        "Diagnosis": "Fever, Muscular fever",
+        "Treatment": "Not specified",
+        "Follow-up": "Not specified"
+      },
+      {
+        "Patient": "Mr SRINIVAS",
+        "Diagnosis": "Chr. Schizophrenia (Paranoid), DM- HIN, Hypercholesterolemia (Trigly), Parena Dels + ND A H",
+        "Treatment": "Counselled over Phone. Medications: Tab Si ZODON Plus (1 Morning, 1 Night), Tab Qubipin 200mg (1 Night), Tab ATIvan (Lorazepam) 2mg (1 Night), Tab Rivotril 0.5mg (Clonazepam) (1 Night), Tab SERTA 50mg (1 Night). Continue Olah BPls medicines.",
+        "Follow-up": "Call me in between, if any problem. In Emergency / If the doctor is not available, please admit at Asha Hospital, Road No. 14, Banjara Hills, Hyderabad."
+      },
+      {
+        "Patient": "Yaw Han (ID: 354-23-00442)",
+        "Diagnosis": "Muscular fever (also mentioned: Fever)",
+        "Treatment": "1 day period for health restoration",
+        "Follow-up": "Not specified"
+      },
+      {
+        "Patient": "Mr SRINIVAS (Gender: Male, Age: Not specified)",
+        "Diagnosis": "Chronic Schizophrenia (Paranoid), Diabetes Mellitus (DM), Hypertension (HTN), Hypercholesterolemia (Triglycerides), Paranoia Delusions",
+        "Treatment": "Counselled over Phone. Medications: Tab Si ZODON Plus (1 tablet morning, 1 tablet night), Tab Qubipin 200mg (1 tablet night), Tab ATIVAN (Lorazepam) 2mg (1 tablet night), Tab Rivotril 0.5mg (Clonazepam) (1 tablet night), Tab SERTA 50mg (1 tablet night for 6 months). Continue all medicines.",
+        "Follow-up": "Call me in between, if any problem. In Emergency / If the doctor is not available, please admit at Asha Hospital, Road No. 14, Banjara Hills, Hyderabad."
+      },
+      {
+        "Patient": "Jyoti Shah",
+        "Diagnosis": "Muscular fever",
+        "Treatment": "Rest for 1 day",
+        "Follow-up": "Not specified"
+      },
+      {
+        "Patient": "Mr SRINIVAS",
+        "Diagnosis": "Chr. Schizophrenia (Paranoia), DM - HTN, Hypercholesterolemia (Trigly), Parena Dels + ND A H, Molla expires 3math bed- sad",
+        "Treatment": "Counselled over Phone. Medications: Tab Si ZODON Plus (1 Morning, 1 Night), Tab Qubipin 200mg (1 Night), Tab ATIvan (Lorazepam) 2mg (1 Night), Rivotril 0.5mg (Clonazepam) (1 Night), SERTA 50mg (1 Night). Continue Olha BPls ugen medicines.",
+        "Follow-up": "Call me in between, Spany problem. Next appointment in 6 months. In Emergency / If the doctor is not available, admit at Asha Hospital (Road No. 14, Banjara Hills, Hyderabad, Tel: 66752222, 23542838)."
+      },
+      {
+        "Patient": "Yaw Han (Passport/ID: 354-23-00442)",
+        "Diagnosis": "Muscular fever",
+        "Treatment": "1 day rest period",
+        "Follow-up": "Not specified"
+      },
+      {
+        "Patient": "Mr SRINIVAS",
+        "Diagnosis": "Chronic Schizophrenia (Paranoid), Diabetes Mellitus, Hypertension, Hypercholesterolemia (Triglycerides)",
+        "Treatment": "Counselled over Phone. Medications: Tab ZODON Plus 1 Morning x 1 Night, Tab Qubipin 200mg x 1 Night, Tab ATIvan (Lorazepam) 2mg x 1 Night, Tab Rivotril 0.5mg (Clonazepam) x 1 Night, SERTA 50mg x 1 Night. Continue Other BP, Sugen medicines.",
+        "Follow-up": "Call me in between, if any problem. In emergency, admit at Asha Hospital."
+      },
+      {
+        "Patient": "Jyoti Shah (Passport/ID: 354-23-00442)",
+        "Diagnosis": "Fever, Muscular fever",
+        "Treatment": "1 day of rest",
+        "Follow-up": "Not specified"
+      },
+      {
+        "Patient": "Mr SRINIVAS",
+        "Diagnosis": "Chr. Schizophrenia (Paranoia), DM, HTN, Hypercholesterolemia (Trigly)",
+        "Treatment": "Counselled over Phone. Tab Si ZODON Plus 1 Morning x 1 Night. Tab Qubipin 200mg 1 Night. Tab ATIvan (Lorazepam) 2mg 1 Night. Tab Rivotril 0.5mg (Clonazepam) 1 Night. Tab SERTA 50mg 1 Night. Continue other BPls & sugar medicines.",
+        "Follow-up": "Call me in between, if any problem. Agenda dates: 6 months (Six). In Emergency / If the doctor is not available, please admit at Asha Hospital."
+      },
+      {
+        "Patient": "Yaw Han, ID: 354-23-00442",
+        "Diagnosis": "Muscular fever",
+        "Treatment": "Rest for 1 day",
+        "Follow-up": "Not specified"
+      }
+    ]
+  },
+  {
+    "total_records": 18,
+    "processed_at": "2025-09-28T23:13:00.899021",
+    "files": [
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Mr_SRINIVAS_20250928_225835.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Jyoti_Shah_ID_354_23_00442_20250928_225839.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Mr_SRINIVAS_Gender_Male_Date_1.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Yaw_Han_ID_354_23_00442_20250928_225936.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Mr_SRINIVAS_20250928_225835.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Yaw_Han_ID_354_23_00442_20250928_225936.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Mr_SRINIVAS_20250928_225835.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Yaw_Han_PassportID_354_23_0044_20250928_230037.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Mr_SRINIVAS_20250928_225835.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Yaw_Han_ID_354_23_00442_20250928_225936.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Mr_SRINIVAS_20250928_225835.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Yaw_Han_PassportID_354_23_0044_20250928_230037.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Mr_SRINIVAS_20250928_225835.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Yaw_Han_PassportID_354_23_0044_20250928_230037.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Mr_SRINIVAS_ID_4143_Not_specif.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Name_Yaw_Han_ID_354_23_00442.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Mr_SRINIVAS_20250928_225835.json",
+      "C:\\Users\\Ishwar\\intraintel\\summarize\\services\\..\\summaries\\patient_Yaw_Han_ID_354_23_00442_20250928_225936.json"
+    ],
+    "summary_preview": [
+      {
+        "Patient": "Mr SRINIVAS",
+        "Diagnosis": "Chronic Schizophrenia (Paranoid), DM (Diabetes Mellitus), Hypercholesterolemia (Triglycerides), Paranoid Delusions",
+        "Treatment": "Tab Si ZODON Plus (1 morning, 1 night), Tab Qubipin 200mg (1 night), Tab ATIvan (Lorazepam) 2mg (1 night), Rivotril 0.5mg (Clonazepam) (1 night), SERTA 50mg (1 night), Continue Olta (Olanzapine), Continue BPls (Blood Pressure) medicines, Continue ugen medicines",
+        "Follow-up": "Counselled over Phone. Call doctor for any problem. In emergency or if doctor not available, admit at Asha Hospital (Tel: 66752222, 23542838)."
+      },
+      {
+        "Patient": "Jyoti Shah",
+        "Diagnosis": "Muscular fever",
+        "Treatment": "1 day of rest",
+        "Follow-up": "Not specified"
+      },
+      {
+        "Patient": "Mr SRINIVAS, Gender: Male, Date: 15-03-2024",
+        "Diagnosis": "Chronic Schizophrenia (Paranoid), DM (Diabetes Mellitus) - HTN (Hypertension), Hypercholesterolemia (Triglycerides), Paranoid Delusions, ADHD",
+        "Treatment": "Counselled over Phone. Medications: Tab ZODON Plus (1 morning, 1 night), Tab Qubipin 200mg (1 night), Tab ATIVAN (Lorazepam) 2mg (1 night), Tab Rivotril 0.5mg (Clonazepam) (1 night), Tab SERTA 50mg (1 night). Continue other B.P. & Sugar medicines.",
+        "Follow-up": "Call if any problem. Prescription validity: 3 months. In emergency, admit at Asha Hospital."
+      },
+      {
+        "Patient": "Yaw Han (ID: 354-23-00442)",
+        "Diagnosis": "Muscular fever",
+        "Treatment": "Not specified",
+        "Follow-up": "Not specified"
+      },
+      {
+        "Patient": "Mr SRINIVAS",
+        "Diagnosis": "Chr. Schizophrenia (Paranoid); DM- HTN; Hypercholesterolemia (Trigly); Paren Delirium; ADHD",
+        "Treatment": "Tab ZODON Plus 1 Morning x 1 Night; Tab Qubipin 200mg 1 Night; Tab ATivan (Lorazepam) 2mg 1 Night; Rivotril 0.5mg (Clonazepam) 1 Night; SERTA 50mg 1 Night; Continue Olanz BPls etc. medicines",
+        "Follow-up": "Call me in between, if any problem"
+      },
+      {
+        "Patient": "Yaw Han (ID: 354-23-00442)",
+        "Diagnosis": "Fever, Muscular fever",
+        "Treatment": "Rest for 1 day",
+        "Follow-up": "Not specified"
+      },
+      {
+        "Patient": "Mr SRINIVAS",
+        "Diagnosis": "Chr. Schizophrem (Parana), DM- HIN, Hypercholemment (Trigly)",
+        "Treatment": "Tab ZODON Plus (1 Morning, 1 Night), Tab Qubipin 200ms (1 Night), Tab ATIvan (Lorazepam) 2mg (1 Night), Rivotril 0.5ms (Clonazepam) (1 Night), SERTA 50ms (1 Night), Continue old BP medicines",
+        "Follow-up": "Call me in between, if any problem"
+      },
+      {
+        "Patient": "Yaw Han, Passport/ID: 354-23-00442",
+        "Diagnosis": "Muscular fever",
+        "Treatment": "Rest for 1 day",
+        "Follow-up": "Not specified"
+      },
+      {
+        "Patient": "Mr SRINIVAS",
+        "Diagnosis": "Chronic Schizophrenia (Paranoid), DM-HTN, Hypercholesterolemia (Triglycerides)",
+        "Treatment": "Counselled over Phone. Medications: Si ZODON Plus (1 morning, 1 night), Qubipin 200mg (1 night), ATIVAN (Lorazepam) 2mg (1 night), Rivotril 0.5mg (Clonazepam) (1 night), SERTA 50mg (1 night). Continue all medicines.",
+        "Follow-up": "Call if any problem. In emergency or if doctor is not available, admit at Asha Hospital."
+      },
+      {
+        "Patient": "Yaw Han, ID: 354-23-00442",
+        "Diagnosis": "Fever, Muscular fever",
+        "Treatment": "1 Days sick leave/rest",
+        "Follow-up": "Not specified"
+      },
+      {
+        "Patient": "Mr SRINIVAS",
+        "Diagnosis": "Chronic Schizophrenia (Paranoid), Diabetes Mellitus (Hypertension), Hypercholesterolemia (Triglycerides), Paranoid Delusions",
+        "Treatment": "Counselled over Phone; Tab Si ZODON Plus 1 Morning x 1 Night; Tab Qubipin 200mg x 1 Night; Tab ATIvan (Lorazepam) 2mg x 1 Night; Tab Rivotril 0.5mg (Clonazepam) x 1 Night; Tab SERTA 50mg x 1 Night; Continue Olha BPls ugen medicines.",
+        "Follow-up": "Call doctor in between for any problem; In Emergency / If the doctor is not available, admit at Asha Hospital."
+      },
+      {
+        "Patient": "Yaw Han, Passport/ID: 354-23-00442",
+        "Diagnosis": "Muscular fever",
+        "Treatment": "1 Day of rest/medical leave",
+        "Follow-up": "Not specified"
+      },
+      {
+        "Patient": "Mr SRINIVAS",
+        "Diagnosis": "Chronic Schizophrenia (Paranoid), Diabetes Mellitus (DM), Hypertension (HTN), Hypercholesterolemia (Triglycerides), Paranoia Delusions, ADHD",
+        "Treatment": "Tab ZODON Plus 1 morning & 1 night; Tab Qubipin 200mg 1 night; Tab ATIvan (Lorazepam) 2mg 1 night; Tab Rivotril 0.5mg (Clonazepam) 1 night; SERTA 50mg 1 night; Continue old BP, Sugar etc. medicines.",
+        "Follow-up": "Call doctor in between if any problem; In emergency or if doctor is not available, admit at Asha Hospital."
+      },
+      {
+        "Patient": "Yaw Han, Passport/ID: 354-23-00442",
+        "Diagnosis": "Muscular fever",
+        "Treatment": "1 Days medical leave for restoration of health",
+        "Follow-up": "Not specified"
+      },
+      {
+        "Patient": "Mr SRINIVAS (ID: 4143), Not specified (age, gender)",
+        "Diagnosis": "Chronic Schizophrenia (Paranoid), Diabetes Mellitus - Hypertension (DM-HTN), Hypercholesterolemia (Triglycerides), Paranoid Delusions",
+        "Treatment": "Medications: Si ZODON Plus (1 tablet in morning, 1 tablet at night), Qubipin 200mg (1 tablet at night), ATIvan (Lorazepam) 2mg (1 tablet at night), Rivotril (Clonazepam) 0.5mg (1 tablet at night), SERTA 50mg (1 tablet at night). Continue other B.P. / Sugar etc. medicines.",
+        "Follow-up": "Call in between if any problem. In Emergency / If the doctor is not available, admit at Asha Hospital, Road No. 14, Banjara Hills, Hyderabad. Tel: 66752222, 23542838."
+      },
+      {
+        "Patient": "Name: Yaw Han, ID: 354-23-00442",
+        "Diagnosis": "Muscular fever",
+        "Treatment": "Rest for 1 day",
+        "Follow-up": "Not specified"
+      },
+      {
+        "Patient": "Mr SRINIVAS",
+        "Diagnosis": "Chronic Schizophrenia (Paranoid), DM- HIN, Hypercholesterolemia (Triglycerides)",
+        "Treatment": "Tab ZODON Plus (1 Morning, 1 Night), Tab Qubipin 200mg (1 Night), Tab Ativan (Lorazepam) 2mg (1 Night), Rivotril 0.5mg (Clonazepam) (1 Night), SERTA 50mg (1 Night), Continue Olba BPls ugen medicines.",
+        "Follow-up": "Call me in between for any problem; In emergency or if doctor not available, admit at Asha Hospital."
+      },
+      {
+        "Patient": "Yaw Han, ID: 354-23-00442",
+        "Diagnosis": "Fever, Muscular fever",
+        "Treatment": "1 day of rest",
+        "Follow-up": "Not specified"
+      }
+    ]
+  },
+  {
+    "record_id": 2,
+    "processed_at": "2025-09-28T23:10:21.392291",
+    "original_text_length": 931,
+    "summary": {
+      "Patient": "Jyoti Shah",
+      "Diagnosis": "Muscular fever",
+      "Treatment": "1 day of rest",
+      "Follow-up": "Not specified"
+    }
+  },
+  {
+    "record_id": 16,
+    "processed_at": "2025-09-28T23:00:51.576418",
+    "original_text_length": 931,
+    "summary": {
+      "Patient": "Jyoti Shah (Passport/ID: 354-23-00442)",
+      "Diagnosis": "Fever, Muscular fever",
+      "Treatment": "1 day of rest",
+      "Follow-up": "Not specified"
+    },
+    "metadata": {
+      "model_used": "gemini-2.5-flash",
+      "processing_version": "1.0"
+    }
+  },
+  {
+    "record_id": 17,
+    "processed_at": "2025-09-28T23:12:57.868353",
+    "original_text_length": 954,
+    "summary": {
+      "Patient": "Mr SRINIVAS",
+      "Diagnosis": "Chronic Schizophrenia (Paranoid), DM- HIN, Hypercholesterolemia (Triglycerides)",
+      "Treatment": "Tab ZODON Plus (1 Morning, 1 Night), Tab Qubipin 200mg (1 Night), Tab Ativan (Lorazepam) 2mg (1 Night), Rivotril 0.5mg (Clonazepam) (1 Night), SERTA 50mg (1 Night), Continue Olba BPls ugen medicines.",
+      "Follow-up": "Call me in between for any problem; In emergency or if doctor not available, admit at Asha Hospital."
+    }
+  },
+  {
+    "record_id": 11,
+    "processed_at": "2025-09-28T22:59:57.101437",
+    "original_text_length": 954,
+    "summary": {
+      "Patient": "Mr SRINIVAS (Gender: Male, Age: Not specified)",
+      "Diagnosis": "Chronic Schizophrenia (Paranoid), Diabetes Mellitus (DM), Hypertension (HTN), Hypercholesterolemia (Triglycerides), Paranoia Delusions",
+      "Treatment": "Counselled over Phone. Medications: Tab Si ZODON Plus (1 tablet morning, 1 tablet night), Tab Qubipin 200mg (1 tablet night), Tab ATIVAN (Lorazepam) 2mg (1 tablet night), Tab Rivotril 0.5mg (Clonazepam) (1 tablet night), Tab SERTA 50mg (1 tablet night for 6 months). Continue all medicines.",
+      "Follow-up": "Call me in between, if any problem. In Emergency / If the doctor is not available, please admit at Asha Hospital, Road No. 14, Banjara Hills, Hyderabad."
+    },
+    "metadata": {
+      "model_used": "gemini-2.5-flash",
+      "processing_version": "1.0"
+    }
+  },
+  {
+    "record_id": 3,
+    "processed_at": "2025-09-28T23:10:36.752628",
+    "original_text_length": 954,
+    "summary": {
+      "Patient": "Mr SRINIVAS, Gender: Male, Date: 15-03-2024",
+      "Diagnosis": "Chronic Schizophrenia (Paranoid), DM (Diabetes Mellitus) - HTN (Hypertension), Hypercholesterolemia (Triglycerides), Paranoid Delusions, ADHD",
+      "Treatment": "Counselled over Phone. Medications: Tab ZODON Plus (1 morning, 1 night), Tab Qubipin 200mg (1 night), Tab ATIVAN (Lorazepam) 2mg (1 night), Tab Rivotril 0.5mg (Clonazepam) (1 night), Tab SERTA 50mg (1 night). Continue other B.P. & Sugar medicines.",
+      "Follow-up": "Call if any problem. Prescription validity: 3 months. In emergency, admit at Asha Hospital."
+    }
+  },
+  {
+    "record_id": 15,
+    "processed_at": "2025-09-28T23:12:45.857255",
+    "original_text_length": 954,
+    "summary": {
+      "Patient": "Mr SRINIVAS (ID: 4143), Not specified (age, gender)",
+      "Diagnosis": "Chronic Schizophrenia (Paranoid), Diabetes Mellitus - Hypertension (DM-HTN), Hypercholesterolemia (Triglycerides), Paranoid Delusions",
+      "Treatment": "Medications: Si ZODON Plus (1 tablet in morning, 1 tablet at night), Qubipin 200mg (1 tablet at night), ATIvan (Lorazepam) 2mg (1 tablet at night), Rivotril (Clonazepam) 0.5mg (1 tablet at night), SERTA 50mg (1 tablet at night). Continue other B.P. / Sugar etc. medicines.",
+      "Follow-up": "Call in between if any problem. In Emergency / If the doctor is not available, admit at Asha Hospital, Road No. 14, Banjara Hills, Hyderabad. Tel: 66752222, 23542838."
+    }
+  },
+  {
+    "record_id": 16,
+    "processed_at": "2025-09-28T23:12:49.293468",
+    "original_text_length": 931,
+    "summary": {
+      "Patient": "Name: Yaw Han, ID: 354-23-00442",
+      "Diagnosis": "Muscular fever",
+      "Treatment": "Rest for 1 day",
+      "Follow-up": "Not specified"
+    }
+  },
+  {
+    "record_id": 18,
+    "processed_at": "2025-09-28T23:13:00.896367",
+    "original_text_length": 931,
+    "summary": {
+      "Patient": "Yaw Han, ID: 354-23-00442",
+      "Diagnosis": "Fever, Muscular fever",
+      "Treatment": "1 day of rest",
+      "Follow-up": "Not specified"
+    }
+  },
+  {
+    "record_id": 14,
+    "processed_at": "2025-09-28T23:12:31.137113",
+    "original_text_length": 931,
+    "summary": {
+      "Patient": "Yaw Han, Passport/ID: 354-23-00442",
+      "Diagnosis": "Muscular fever",
+      "Treatment": "1 Days medical leave for restoration of health",
+      "Follow-up": "Not specified"
+    }
+  }
+]

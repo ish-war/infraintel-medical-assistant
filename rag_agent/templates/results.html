@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="card shadow p-4">
+    <h3 class="mb-3">Results for: "{{ question }}"</h3>
+
+    {% if result.answer %}
+    <div class="alert alert-success">
+        <h5>💡 Gemini Answer</h5>
+        <p>{{ result.answer }}</p>
+    </div>
+    {% endif %}
+
+    <h5>Retrieved Records ({{ result.retrieved_count }})</h5>
+    <ul class="list-group">
+        {% for r in result.retrieved %}
+            {% set md = r.metadata.get('summary', {}) %}
+            <li class="list-group-item">
+                <strong>Patient:</strong> {{ md.get('Patient', 'N/A') }} |
+                <strong>Diagnosis:</strong> {{ md.get('Diagnosis', 'N/A') }} |
+                <strong>Treatment:</strong> {{ md.get('Treatment', 'N/A') }} |
+                <strong>Follow-up:</strong> {{ md.get('Follow-up', 'N/A') }}
+                <span class="badge bg-secondary float-end">
+                    distance={{ "%.4f"|format(r.distance) }}
+                </span>
+            </li>
+        {% endfor %}
+    </ul>
+
+    <a href="/" class="btn btn-link mt-3">← Ask another question</a>
+</div>
+{% endblock %}

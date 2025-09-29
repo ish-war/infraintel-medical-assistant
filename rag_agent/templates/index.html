@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="card shadow p-4">
+    <h3 class="mb-3">Ask a Question</h3>
+    <form method="post" action="/ask-ui">
+        <div class="mb-3">
+            <label class="form-label">Question</label>
+            <input type="text" class="form-control" name="question" placeholder="Enter your question" required>
+        </div>
+        <div class="form-check mb-3">
+            <input class="form-check-input" type="checkbox" name="use_gemini" checked>
+            <label class="form-check-label">Use Gemini AI for answer synthesis</label>
+        </div>
+        <button type="submit" class="btn btn-primary">Ask</button>
+    </form>
+</div>
+{% endblock %}
